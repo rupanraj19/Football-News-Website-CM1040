@@ -1,3 +1,3 @@
 # Football-News-Website
 
-<img src="Images/report/images/mockup.png">
+<img src="report/images/mockup.png">
