@@ -3,4 +3,4 @@
 
 <img src="report/images/mockup.png" width="1200" height="600">
 
-<p> When you downloaded this file. Please change the name of the "Images" folder to "images". Thanks :)</p>
+<p> Please note that the 'Images' folder in this repository should be renamed to 'images' (lowercase) after downloading." Thanks :)</p>
