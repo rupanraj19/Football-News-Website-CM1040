@@ -14,7 +14,7 @@ body {
     line-height: 1.7;
     color: var(--c-body);
      /* The image used */
-     background: url("../images/halloffame/bg.jpg");
+     background: url("../Images/halloffame/bg.jpg");
      /* Full height */
      height: 100%; 
      /* Center and scale the image nicely */
